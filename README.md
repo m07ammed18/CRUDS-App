@@ -1,7 +1,7 @@
 # 🛒 CRUDS - Product Management System
 
 ## 🌐 Live Demo
-[Visit here](https://m07ammed18.github.io/CRUDS/)
+[Visit here](https://m07ammed18.github.io/CRUDS-App/)
 
 ---
 
